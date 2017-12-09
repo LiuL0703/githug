@@ -1,4 +1,8 @@
 # Githug
+# install 
+➜ sudo gem install githug
+# start
+➜ githug
 # #20
 Name: commit_in_future
 Commit your changes with the future date (e.g. tomorrow).
